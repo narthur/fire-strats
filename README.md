@@ -14,7 +14,7 @@ Financial Independence strategies
 - Own as little car as possible
 - Forgo car ownership altogether in favor of [biking][bikes]
 - [Hack][hack] your housing by living in your own rental property
-- Take advantage of free entertainment—libraries, Spotify, YouTube, IMDb TV, Meetup, etc, etc.
+- Take advantage of [free entertainment](entertainment.md).
 
 ## Invest Better
 
